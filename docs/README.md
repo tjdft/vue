@@ -5,7 +5,7 @@ Este manual descreve a solução arquitetural proposta para construção de Sing
 As informações contidas aqui são uma compilação das documentações oficiais dos frameworks descritos, de forma simplificada, com o intuito de introduzir na prática o entendimento das tecnologias.
 
 ::: tip Código fonte do projeto 
-[https://github.com/robsontenorio/imoveis-app](https://github.com/robsontenorio/imoveis-app)
+[https://github.com/tjdft/vue-imoveis-app](https://github.com/tjdft/vue-imoveis-app)
 :::
 
 ## Vue
@@ -44,4 +44,4 @@ Complementarmente, o **Vuetify** adiciona um conjunto de componentes visuais est
 
 ![](./assets/index-arquitetura.png)
 
-.
+.....
