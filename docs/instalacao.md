@@ -20,6 +20,10 @@ Entretanto, o setup inicial via **nuxt-app** é o mais recomendado, uma vez que 
 yarn create nuxt-app meu-projeto
 ```
 
+::: tip
+NUXT é um framework construído no topo do VUE
+:::
+
 ## Criando o projeto
 
 Inicie um novo projeto utilizando `nuxt-app` via `yarn` :

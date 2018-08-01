@@ -56,7 +56,7 @@ A instalação inicial traz algumas **páginas** e **componentes**. Vamos prepar
 </script>
 ```
 
-**Substitua o conteúdo de **`pages/index.vue`** por:**
+Substitua o conteúdo de `pages/index.vue` por:
 
 ```vue
 <template>
@@ -78,7 +78,7 @@ A instalação inicial traz algumas **páginas** e **componentes**. Vamos prepar
 </style>
 ```
 
-**Renomeie o arquivo **`pages/inspire.vue`** para **`pages/imoveis.vue`** e substitua seu conteúdo por:**
+Renomeie o arquivo `pages/inspire.vue` para `pages/imoveis.vue` e substitua seu conteúdo por:
 
 ```vue
 <template>
@@ -100,7 +100,7 @@ A instalação inicial traz algumas **páginas** e **componentes**. Vamos prepar
 </style>
 ```
 
-**Apague os componentes **`components/Logo.vue`** e **`components/VuetifyLogo.vue`** e navegue novamente para **[**http://localhost:3000**](http://localhost:3000)** para ver o projeto atualizado:**
+Apague os componentes `components/Logo.vue` e `components/VuetifyLogo.vue` e navegue novamente para [http://localhost:3000](http://localhost:3000) para ver o projeto atualizado:
 
 ![](./assets/projeto-app2.png)
 
