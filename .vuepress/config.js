@@ -4,6 +4,7 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  base: '/vue/',
   themeConfig: {
     nav: [
       { text: 'Github', link: 'https://github.com/tjdft' },
