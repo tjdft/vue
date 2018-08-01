@@ -29,6 +29,10 @@ O Nuxt simplifica e abstrai as configurações do Vue. Estas são as configuraç
   }
 ```
 
+::: danger 
+O backend está hospedado em um servidor gratuito. Portanto, as requsições ao backend serão mais lentas que o normal.
+:::
+
 ::: tip 
 AXIOS é o pacote utilizado para fazer requisições ao backend.
 :::
