@@ -16,6 +16,11 @@ module.exports = {
           '/',
           '/instalacao',
           '/projeto',
+        ]
+      },
+      {
+        title: 'NUXT',
+        children: [
           '/estrutura-de-pastas',
           '/configuracao',
         ]
